@@ -48,7 +48,7 @@ h2.subtitulo{
 }
 .navbar-dark .navbar-nav nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #D83F87;
+    color: white;
     font-weight: 700;
 }
 /*header*/
@@ -118,7 +118,7 @@ header p.lead{
     padding-right: 3em;
 }
 #hBotao.btn-primary:focus, .btn-primary.focus{
-    box-shadow: 0 0 2px 0.2em #D83F87 ; 
+    box-shadow: 0 0 2px 0.2em white ; 
 }
 @media (max-width: 767px){
     header video{
